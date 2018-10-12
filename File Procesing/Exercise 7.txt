@@ -1,0 +1,10 @@
+1000	Amir Thompson	Philadelphia	PA
+1001	Alecia Moore	Doylestown	PA
+1002	Bret Michaels	Mechanicsburg	PA
+1003	Cameron Thomaz	Pittsburgh	PA
+1004	Christina Aguilera	Wexford	PA
+1005	Joan Jett	Wynnewood	PA
+1006	Taylor Swift	Wyomissing 	PA
+1007	Tom Keifer	Springfield	PA
+1008	Trent Reznor	New Castle	PA
+1009	Will Smith	Philadelphia	PA
